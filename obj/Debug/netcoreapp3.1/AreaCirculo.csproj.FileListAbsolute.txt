@@ -1,0 +1,11 @@
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Heliton\Source\Repos\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\Heliton\Source\Repos\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Heliton\Source\Repos\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+C:\Users\Heliton\Source\Repos\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Heliton\Source\Repos\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
